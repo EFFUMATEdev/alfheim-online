@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/EFFUMATEdev/alfheim-online/issues"
   },
-  "homepage": "https://arianne-project.org",
+  "homepage": "ps encore",
   "private": true,
   "dependencies": {
     "typescript": "^4.5.3"
